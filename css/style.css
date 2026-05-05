@@ -471,7 +471,7 @@ body {
     gap: 15px;
   }
   .category-item {
-    width: calc(25% - 20px); /* 4 items per row */
+    width: calc(25% - 20px); 
   }
 }
 
@@ -488,7 +488,7 @@ body {
     margin-top: 32px;
   }
   .category-item {
-    width: calc(33.33% - 20px); /* 3 items per row */
+    width: calc(33.33% - 20px); 
   }
 }
 
@@ -502,7 +502,7 @@ body {
   }
   .category-item {
     width: 100%;
-    max-width: 300px; /* Mobile a box gulo khub beshi boro na dekhate */
+    max-width: 300px; 
     margin-bottom: 20px;
   }
   .main-title {
